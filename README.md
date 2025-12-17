@@ -1,3 +1,4 @@
+# FUCK YOU TIVA AND YOUR EGO YOU FUCKING CHILD!!!!!
 # Paradise Android
 
 Paradise Android redirects requests via hooking **ProcessRequest** and modifying the outgoing url to https://xenon-api-v1.nxa.app
@@ -37,3 +38,4 @@ Paradise Android redirects requests via hooking **ProcessRequest** and modifying
 ```
 2. `cp ./libs/arm64-v8a/paradise.so ./mod/apk/lib/arm64-v8a/paradise.so`
 3. `apktool build ./mod/apk -o ./mod/unsigned.apk`
+
